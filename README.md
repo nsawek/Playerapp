@@ -1,4 +1,5 @@
 # Playerapp
 test,project
 
-Aplikacja na androida pdo projekt grupowy.
+Aplikacja na androida pod projekt grupowy.
+
